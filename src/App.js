@@ -1,0 +1,10 @@
+import "./styles.css";
+import Header from "./Header";
+
+export default function App() {
+  return (
+    <div className="App p-4">
+      <Header />
+    </div>
+  );
+}
